@@ -56,7 +56,7 @@ const Hero: React.FC = () => {
                 View My Work
               </button>
               <a
-                href="https://www.dropbox.com/scl/fi/dls7jjg8mij9ojtiun90h/Resume.pdf?rlkey=7ffsuzx7a0049nd96bino2l82&st=tnq1e42i&dl=1"
+                href="https://www.dropbox.com/scl/fi/regwmyc50488hatsgrtoa/Resume.pdf?rlkey=2o9in26mrkre2jnok0ji32258&st=1k7nf3ni&dl=1"
                 download
                 className="flex items-center justify-center gap-2 px-8 py-4 font-semibold text-indigo-600 transition-all duration-300 border-2 border-indigo-600 rounded-full hover:bg-indigo-600 hover:text-white"
               >
